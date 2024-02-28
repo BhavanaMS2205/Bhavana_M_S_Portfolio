@@ -1,0 +1,42 @@
+.skills{
+    background: url("../images/back.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:rgb(14, 60, 80);
+    margin: 10px;
+    padding: 30px;
+    height: 100vh;
+}
+
+.program {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    
+    
+}
+
+.program img{
+    width: 80px;
+}
+
+.program div{
+
+    margin: 20px;
+
+}
+h1{
+    margin-bottom: 30px;
+    margin-top: 10px;
+    font-weight: 400;
+}
+
+h2{
+    font-weight: 400;
+}
+
+.skil{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+}
+

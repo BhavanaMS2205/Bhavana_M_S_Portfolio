@@ -1,0 +1,42 @@
+.project{
+    height: 100vh;
+    color:rgb(14, 60, 80);
+    background: url("../images/back.jpg") ;
+    background-position: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px;
+}
+
+.projects{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    padding-top: 40px;
+ 
+
+}
+h1{
+    margin: 10px;
+   padding-top: 20px;
+    
+}
+
+
+.certifications{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.certi{
+
+    margin: 10px;
+}
+
+
+h3 ,p{
+    margin:10px 0px
+}
